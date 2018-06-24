@@ -3,7 +3,6 @@ My first to-do list website
 
 Features:
 =======
-My first to-do list website features:
 1. Add list item: Enter your list item in the input area and click enter button/press "enter" on your keyboard 
 2. Draw line through the item: Click on the item
 3. Delete list item: click item's corresponding delete button
