@@ -1,4 +1,3 @@
-# https://yaningyu1992.github.io/
 My first to-do list website 
 
 Features:
